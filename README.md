@@ -11,7 +11,7 @@ This tool queues commands to execute them one by one.
 Install
 -------
 
-    go get github.com/hullerob/q
+    go get github.com/hullerob/q/{q,qd}
 
 Example
 -------
